@@ -1,0 +1,4 @@
+# Created at 2019-06-09T12:56:12.871
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Forescout\workspace\challenge\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
